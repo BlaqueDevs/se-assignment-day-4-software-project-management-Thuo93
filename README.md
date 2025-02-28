@@ -123,4 +123,4 @@ Helps in differentiating the product from competitors
 
 Ensures alignment with industry best practices
 
-Guides pricing and monetization strategies
+Guides pricing and monetization strategies.
